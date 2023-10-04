@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyreal-Izual
-- 📚 I'm 3rd Year UG Computer Science Student at the University of Bristol
+- 📚 I'm now a 3rd Year UG Computer Science Student at the University of Bristol.
 - 👀 I’m interested in Cyber Security!
 - 🌱 I’m currently learning programming languages: Python, C, Cpp, Java, Go, C#, and Haskell...
 - 💞️ I’m looking to collaborate on ...
