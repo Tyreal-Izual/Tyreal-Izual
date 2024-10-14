@@ -3,7 +3,6 @@
 - 👀 I’m interested in Computer Vision and Cyber Security!
 - 🌱 I’m currently learning programming languages: Python, C, Cpp, Java, Go, C#, and Haskell...
 - 💞️ I’m interested in doing a PhD in Computer Vision... 
-- 📫 How to reach me: LinkedIn www.linkedin.com/in/zhicheng-zou-817539257
 - 
 
 <!---
